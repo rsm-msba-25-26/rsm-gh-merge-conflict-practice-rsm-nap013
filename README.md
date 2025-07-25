@@ -1,5 +1,5 @@
 ## Generate (and fix) a merge conflict
-
+hihihih\
 This assignment provides some practice in how to create and resolve merge conflicts. First, view the assignment from the GitHub organization linked below:
 
 `https://github.com/orgs/rsm-msba-25-26/repositories`
