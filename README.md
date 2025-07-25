@@ -8,7 +8,7 @@ Clone the repo to your laptop using the commands below, after you replace `aaa11
 
 ```bash
 username="aaa111";
-git clone git@github.com:rsm-msba-25-26/rsm-gh-merge-conflict-practice-rsm-$username ~/git/rsm-gh-merge-conflict-practice;
+git clone git@github.com:rsm-msba-25-26/ 123y43hfdrsm-gh-merge-conflict-practice-rsm-$username ~/git/rsm-gh-merge-conflict-practice;
 ```
 
 This is your copy of the original assignment on GitHub. The content is in the `~/git/rsm-gh-merge-conflict-practice` directory on your computer for you to work on using VS Code.
